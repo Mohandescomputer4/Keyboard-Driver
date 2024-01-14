@@ -16,5 +16,5 @@ in this release you can see code and can use .exe file for running in your PC Di
 - Can Detect multiple Pressed Key
 - Until Detect Released + Multiple
 - Optimization
--     + like using Vector for storing Pressed Key
--     + using Print Vector for beauty Code
+-      like using Vector for storing Pressed Key
+-      using Print Vector for beauty Code

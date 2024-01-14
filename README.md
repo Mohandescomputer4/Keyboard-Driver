@@ -19,3 +19,4 @@ in this release you can see code and can use .exe file for running in your PC Di
 - Optimization Such:
     - using Vector for storing Pressed Key
     - using Print Vector for beauty Code
+    - Delete Unnecessary Function

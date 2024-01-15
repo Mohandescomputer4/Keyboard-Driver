@@ -4,9 +4,9 @@ Operating System at Shahed University
 - master :
      - prof. aminollah mahabadi
 - Dear TAs:
-    1. Mohammad Hassan Barati
-    2. HamidReza Bluri
-    3. Qasem Syankai
+    1. Eng. Mohammad Hassan Barati
+    2. Eng. HamidReza Bluri
+    3. Eng. Qasem Syankai
 
 # 1.7 Release
 in this release you can see code and can use .exe file for running in your PC Directly
@@ -16,6 +16,7 @@ in this release you can see code and can use .exe file for running in your PC Di
 - Can Detect Released Key
 - Can Detect multiple Pressed Key
 - Until Detect Released + Multiple
+- Detect signal which sent from keyboard before driver 
 - Optimization Such:
     - using Vector for storing Pressed Key
     - using Print Vector for beauty Code

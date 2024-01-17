@@ -12,12 +12,12 @@ Operating System at Shahed University
 in this release you can see code and can use .exe file for running in your PC Directly
 
 ### Changes
-- can Detect Pressed Key
-- Can Detect Released Key
-- Can Detect multiple Pressed Key
-- Until Detect Released + Multiple
-- Detect signal which sent from keyboard before driver 
-- Optimization Such:
+- [x] Can Detect Pressed Key
+- [x] Can Detect Released Key
+- [x] Can Detect multiple Pressed Key
+- [x] Until Detect Released + Multiple
+- [x] Detect signal which sent from keyboard before driver 
+- [x] Optimization Such:
     - using Vector for storing Pressed Key
     - using Print Vector for beauty Code
     - Delete Unnecessary Function

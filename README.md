@@ -7,6 +7,8 @@ Operating System at Shahed University
     1. Eng. Mohammad Hassan Barati
     2. Eng. HamidReza Bluri
     3. Eng. Qasem Syankai
+ 
+#### just for Educational Purpose
 
 # 1.7 Release
 in this release you can see code and can use .exe file for running in your PC Directly
